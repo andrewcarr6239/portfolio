@@ -19,7 +19,7 @@ After I finish the above linear algebra Udemy course I will be working through F
 
 ## IOT Projects
 ### Lora
-  For the last year I have been learning how to use LoRA to transmit and recieve messages across long distances. This project was very relevant as my fathers property has troughts, tank, pumps and irrigation beyond the range of WiFi. 
+For the last year I have been learning how to use LoRA to transmit and recieve messages across long distances. This project was very relevant as my fathers property has troughts, tank, pumps and irrigation beyond the range of WiFi. 
 ### Tasmosta Irrigation
 The above project as morphed to include an irrigation system within range of WiFi, especially considering the mesh network capability of Tasmota. My current testing includes [these](https://www.aliexpress.com/item/1005002510489728.html?spm=a2g0o.9042311.0.0.dcd44c4dahYhoR) solar panels with 18650 LiPo batteries to power [wemos d1 Mini's](https://www.aliexpress.com/item/32810248066.html?spm=a2g0o.productlist.0.0.3b2669f9FIMYgI&algo_pvid=9b8b1fd0-cb8a-41ba-84f9-047d432ae2b4&algo_exp_id=9b8b1fd0-cb8a-41ba-84f9-047d432ae2b4-1&pdp_ext_f=%7B%22sku_id%22%3A%2265767018894%22%7D&pdp_pi=-1%3B6.54%3B-1%3B-1%40salePrice%3BAUD%3Bsearch-mainSearch). I like these esp32's as they include an external antenna which will be useful for increasing range of the WiFi mesh. 
 ### Electric Bike
